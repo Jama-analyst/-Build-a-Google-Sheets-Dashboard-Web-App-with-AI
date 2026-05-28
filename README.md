@@ -55,11 +55,15 @@ The AI will generate custom code tailored to your data. However, the structure w
 
 ## The generated codes comprise the following four files (as requested in the prompt).
 - The Server Logic (Code.gs): This script fetches data from your sheet and serves the webpage.
-  
+
+[Code.gs](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Code.gs.pdf)  
+
 - The Layout (Index.html): This is the skeleton of your dashboard, using Bootstrap for a responsive, mobile-friendly grid.
-[Index.html](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Index.html.pdf)
+
+[Code.gs](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Code.gs.pdf)
 
 - The Logic (JavaScript.html): This handles drawing the charts.
+
 [JavaScript.html](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/JavaScript.html.pdf)
 
 - The Styling (css.html).
