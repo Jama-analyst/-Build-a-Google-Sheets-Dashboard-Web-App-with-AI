@@ -67,8 +67,10 @@ The AI will generate custom code tailored to your data. However, the structure w
 [JavaScript.html](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/JavaScript.html.pdf)
 
 - The Styling (css.html).
-[JavaScript] https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/JavaScript.html.pdf
+  
+[css.html](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/css.html.pdf)
 
+https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/css.html.pdf
 ## How to Implement the Code
 Now that the AI has generated the necessary components, we can proceed with building the dashboard.
 - [ ] Where to place the code
