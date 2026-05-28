@@ -48,8 +48,6 @@ I have refined a prompt that forces the AI to use best practices (like server-si
 
 [The AI Prompt](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf)
 
-_[Market Performance and Sales Targets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
-
 ## The Generated Code (Reference)
 The AI will generate custom code tailored to your data. However, the structure will be similar to the example below. If you want to test this right away, you can use the generic template provided. You can copy the Google Sheet containing the data from the link below to your Drive.
 
@@ -70,7 +68,7 @@ The AI will generate custom code tailored to your data. However, the structure w
   
 [css.html](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/css.html.pdf)
 
-https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/css.html.pdf
+
 ## How to Implement the Code
 Now that the AI has generated the necessary components, we can proceed with building the dashboard.
 - [ ] Where to place the code
@@ -110,6 +108,11 @@ This is the step where your script transforms into a live dashboard URL.
   - Who has access: Select Anyone with Google Account (if you want to share it internally) or Anyone (if you want it fully public).
 - Click Deploy.
 ![image](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/Sales%20Performance%20Dashboard.jpeg)
+
+https://script.google.com/macros/s/AKfycbyRFSuC9dqi8JdRkRRscSzao6hzmFKF5R2ZCkCWvY6dKzuBqBl3-VkYEN-ftPpbwXTpAg/exec
+
+
+
 
 ## Since this is the first time running the script, Google will ask for permission to read your spreadsheet data.
 - Click Authorize access.
