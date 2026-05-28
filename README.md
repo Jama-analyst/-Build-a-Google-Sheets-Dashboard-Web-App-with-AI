@@ -79,6 +79,10 @@ Google Sheets contains a powerful tool called Google Apps Script (similar to VBA
 ![image](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/Sales%20Performance%20Dashboard.jpeg)
    
 - [ ]  After creating all 4 files, your file structure should look like the one below.
+![image](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/HTML%20Files%20Structure.png)
+
+
+
 
 ## Deploy the Web App
 This is the step where your script transforms into a live dashboard URL.
