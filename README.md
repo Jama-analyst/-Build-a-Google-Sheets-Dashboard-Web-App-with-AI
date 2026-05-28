@@ -47,6 +47,7 @@ I have refined a prompt that forces the AI to use best practices (like server-si
 - Copy and paste this prompt into ChatGPT, Claude, or Gemini:
 
 [The AI Prompt](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf)
+
 _[Market Performance and Sales Targets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
 ## The Generated Code (Reference)
