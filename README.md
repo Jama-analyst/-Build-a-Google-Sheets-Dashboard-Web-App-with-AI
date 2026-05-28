@@ -46,7 +46,7 @@ I have refined a prompt that forces the AI to use best practices (like server-si
 - In this prompt, I am asking the AI to decide the type of charts to be included in the dashboard. You can modify the code and request the type of charts you need.
 - Copy and paste this prompt into ChatGPT, Claude, or Gemini:
 
-[The AI Prompt] https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf
+[The AI Prompt]https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf
 
 
 ## The Generated Code (Reference)
@@ -56,9 +56,9 @@ The AI will generate custom code tailored to your data. However, the structure w
 - The Server Logic (Code.gs): This script fetches data from your sheet and serves the webpage.
 - The Layout (Index.html): This is the skeleton of your dashboard, using Bootstrap for a responsive, mobile-friendly grid.
 - The Logic (JavaScript.html): This handles drawing the charts.
+[JavaScript] https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/JavaScript.html.pdf
 - The Styling (css.html).
-![image](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/Sales%20Performance%20Dashboard.jpeg)
-
+[JavaScript] https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/JavaScript.html.pdf
 ## How to Implement the Code
 Now that the AI has generated the necessary components, we can proceed with building the dashboard.
 - [ ] Where to place the code
