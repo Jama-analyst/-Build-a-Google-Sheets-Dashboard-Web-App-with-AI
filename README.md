@@ -60,7 +60,7 @@ The AI will generate custom code tailored to your data. However, the structure w
 
 - The Layout (Index.html): This is the skeleton of your dashboard, using Bootstrap for a responsive, mobile-friendly grid.
 
-[Code.gs](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Code.gs.pdf)
+[Index.html](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Index.html.pdf)
 
 - The Logic (JavaScript.html): This handles drawing the charts.
 
