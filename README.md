@@ -27,6 +27,9 @@ Why build a Google Sheets Dashboard Web App this way?
 ## Prerequisites: 
 - [ ] What You Need Before Starting
 You don’t need to be a coder, but you do need your data ready.
+
+[Sales Data Sample.csv](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Sales%20Data%20Sample.csv)
+
 1. A Google Sheet with Data: Ensure your data is in a clean format.
 - Row 1: Headers (e.g., “Date”, “Sales”, “Region”).
 - Rows 2+: Your actual data.
