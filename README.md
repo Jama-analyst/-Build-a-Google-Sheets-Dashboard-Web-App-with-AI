@@ -46,8 +46,8 @@ I have refined a prompt that forces the AI to use best practices (like server-si
 - In this prompt, I am asking the AI to decide the type of charts to be included in the dashboard. You can modify the code and request the type of charts you need.
 - Copy and paste this prompt into ChatGPT, Claude, or Gemini:
 
-[The AI Prompt]https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf
-
+[The AI Prompt](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf)
+_[Market Performance and Sales Targets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
 ## The Generated Code (Reference)
 The AI will generate custom code tailored to your data. However, the structure will be similar to the example below. If you want to test this right away, you can use the generic template provided. You can copy the Google Sheet containing the data from the link below to your Drive.
