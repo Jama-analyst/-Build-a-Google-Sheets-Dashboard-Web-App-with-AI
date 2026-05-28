@@ -119,8 +119,6 @@ This is the step where your script transforms into a live dashboard URL.
 https://script.google.com/macros/s/AKfycbyRFSuC9dqi8JdRkRRscSzao6hzmFKF5R2ZCkCWvY6dKzuBqBl3-VkYEN-ftPpbwXTpAg/exec
 
 
-
-
 ## Since this is the first time running the script, Google will ask for permission to read your spreadsheet data.
 - Click Authorize access.
 - Select your Google account.
@@ -144,11 +142,11 @@ Once your base dashboard is live, you can simply ask the AI to upgrade it. Keep 
 - Prompt: “Update the code to add a dropdown menu at the top. When I select a specific ‘Region’, update all charts to show data only for that region.”
 - Visual Polish: Once the logic works, fix the look.
 - Prompt: “Update the CSS to use a ‘Dark Mode’ theme and change the charts to my brand colors: Navy Blue and Gold.”
-By layering these features step-by-step, you ensure your dashboard remains stable and error-free while becoming increasingly powerful.
+- By layering these features step-by-step, you ensure your dashboard remains stable and error-free while becoming increasingly powerful.
 
 ![image](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/Sales%20Performance%20Dashboard.jpeg)
 
 ## Wrapping Up
-Building a custom dashboard used to require a budget for developers or a subscription to expensive BI tools. Today, all it took was your data, a smart prompt, and a few minutes of copy-pasting.
-You now possess a powerful new skill: the ability to turn raw numbers into a shareable, interactive experience. Whether you use this for client reporting, internal team tracking, or just to organize your personal finances, the flexibility is unmatched because you own the code.
-Don’t stop here. The web app you just deployed is a living foundation. As your data grows and your needs change, simply return to your AI assistant to add new filters, tweak the design, or expand the logic. The technical barrier is gone—now it’s time to create.  
+- Building a custom dashboard used to require a budget for developers or a subscription to expensive BI tools. Today, all it took was your data, a smart prompt, and a few minutes of copy-pasting.
+- You now possess a powerful new skill: the ability to turn raw numbers into a shareable, interactive experience. Whether you use this for client reporting, internal team tracking, or just to organize your personal finances, the flexibility is unmatched because you own the code.
+- Don’t stop here. The web app you just deployed is a living foundation. As your data grows and your needs change, simply return to your AI assistant to add new filters, tweak the design, or expand the logic. The technical barrier is gone—now it’s time to create.  
