@@ -118,6 +118,8 @@ This is the step where your script transforms into a live dashboard URL.
 
 https://script.google.com/macros/s/AKfycbyRFSuC9dqi8JdRkRRscSzao6hzmFKF5R2ZCkCWvY6dKzuBqBl3-VkYEN-ftPpbwXTpAg/exec
 
+https://sites.google.com/view/jama-analyst/dash
+
 
 ## Since this is the first time running the script, Google will ask for permission to read your spreadsheet data.
 - Click Authorize access.
