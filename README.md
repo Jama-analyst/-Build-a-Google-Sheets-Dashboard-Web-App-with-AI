@@ -114,6 +114,8 @@ This is the step where your script transforms into a live dashboard URL.
   
 [Deployment](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Deployment%20Config.png)
 
+[Deployment Link](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Deployment%20Link.png)
+
 [Sales Performance](https://script.google.com/macros/s/AKfycbyRFSuC9dqi8JdRkRRscSzao6hzmFKF5R2ZCkCWvY6dKzuBqBl3-VkYEN-ftPpbwXTpAg/exec)
 
 
