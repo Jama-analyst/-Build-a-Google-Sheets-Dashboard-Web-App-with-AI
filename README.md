@@ -112,9 +112,7 @@ This is the step where your script transforms into a live dashboard URL.
   - Who has access: Select Anyone with Google Account (if you want to share it internally) or Anyone (if you want it fully public).
 - Click Deploy.
 
-https://script.google.com/macros/s/AKfycbyRFSuC9dqi8JdRkRRscSzao6hzmFKF5R2ZCkCWvY6dKzuBqBl3-VkYEN-ftPpbwXTpAg/exec
-
-https://sites.google.com/view/jama-analyst/dash
+[Sales Performance](https://script.google.com/macros/s/AKfycbyRFSuC9dqi8JdRkRRscSzao6hzmFKF5R2ZCkCWvY6dKzuBqBl3-VkYEN-ftPpbwXTpAg/exec)
 
 
 ## Since this is the first time running the script, Google will ask for permission to read your spreadsheet data.
