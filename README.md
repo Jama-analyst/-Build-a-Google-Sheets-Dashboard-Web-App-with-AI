@@ -110,7 +110,9 @@ This is the step where your script transforms into a live dashboard URL.
   - Description: Enter a name (e.g., “Sales Dashboard v1”).
   - Execute as: Select Me (your email address).
   - Who has access: Select Anyone with Google Account (if you want to share it internally) or Anyone (if you want it fully public).
-- Click Deploy.
+- Click Deploy
+  
+[Deployment](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Deployment%20Config.png)
 
 [Sales Performance](https://script.google.com/macros/s/AKfycbyRFSuC9dqi8JdRkRRscSzao6hzmFKF5R2ZCkCWvY6dKzuBqBl3-VkYEN-ftPpbwXTpAg/exec)
 
