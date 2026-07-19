@@ -135,7 +135,7 @@ Click that link to open your new dashboard in a full browser tab. You can bookma
 
 You can view the live dashboard from this link.
 
-![image](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/Sales%20Performance%20Dashboard.jpeg)
+![image](https://github.com/Jama-analyst/Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Sales%20Performance%20Dashboard.pdf)
 
 ## Next Steps: Customizing Your Dashboard (No Code Needed)
 Once your base dashboard is live, you can simply ask the AI to upgrade it. Keep the chat open and try these iterations:
