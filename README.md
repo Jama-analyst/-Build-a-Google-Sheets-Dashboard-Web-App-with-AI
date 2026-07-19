@@ -126,6 +126,7 @@ This is the step where your script transforms into a live dashboard URL.
 - Click Advanced.
 - Click Go to (Untitled Project) (unsafe) at the bottom.
 - Click Allow.
+![image](https://github.com/Jama-analyst/Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Authorize%20access.pdf)
   
 ## View Your Dashboard
 Once authorized, Google will provide you with a Web App URL.
