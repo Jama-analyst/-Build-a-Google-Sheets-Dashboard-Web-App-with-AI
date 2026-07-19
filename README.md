@@ -98,6 +98,7 @@ Google Sheets contains a powerful tool called Google Apps Script (similar to VBA
 4. Save: Click the Disk icon in the toolbar (or press Ctrl + S / Cmd + S) to save your project.
    
 - [ ]  After creating all 4 files, your file structure should look like the one below.
+
 ![image](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/HTML%20Files%20Structure.png)
 
 
@@ -126,6 +127,7 @@ This is the step where your script transforms into a live dashboard URL.
 - Click Advanced.
 - Click Go to (Untitled Project) (unsafe) at the bottom.
 - Click Allow.
+  
 ![image](https://github.com/Jama-analyst/Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/Authorize%20access.pdf)
   
 ## View Your Dashboard
@@ -144,8 +146,6 @@ Once your base dashboard is live, you can simply ask the AI to upgrade it. Keep 
 - Visual Polish: Once the logic works, fix the look.
 - Prompt: “Update the CSS to use a ‘Dark Mode’ theme and change the charts to my brand colors: Navy Blue and Gold.”
 - By layering these features step-by-step, you ensure your dashboard remains stable and error-free while becoming increasingly powerful.
-
-![image](https://github.com/Jama-analyst/Sales-Performance-Web-Dashboard/blob/main/Sales%20Performance%20Dashboard.jpeg)
 
 ## Wrapping Up
 - Building a custom dashboard used to require a budget for developers or a subscription to expensive BI tools. Today, all it took was your data, a smart prompt, and a few minutes of copy-pasting.
